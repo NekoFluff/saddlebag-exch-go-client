@@ -21,7 +21,7 @@ go get golang.org/x/net/context
 Put the package under your project folder and add the following in import:
 
 ```go
-import openapi "github.com/nekofluff/universalis-go-client"
+import openapi "github.com/nekofluff/saddlebag-exch-go-client"
 ```
 
 To use a proxy, set the environment variable `HTTP_PROXY`:

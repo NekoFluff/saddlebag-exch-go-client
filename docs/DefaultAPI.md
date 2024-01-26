@@ -38,7 +38,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -102,7 +102,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -164,7 +164,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -226,7 +226,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -288,7 +288,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -350,7 +350,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -412,7 +412,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -474,7 +474,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -536,7 +536,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -598,7 +598,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -660,7 +660,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -722,7 +722,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -784,7 +784,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -846,7 +846,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -908,7 +908,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
@@ -970,7 +970,7 @@ import (
 	"context"
 	"fmt"
 	"os"
-	openapiclient "github.com/nekofluff/universalis-go-client"
+	openapiclient "github.com/nekofluff/saddlebag-exch-go-client"
 )
 
 func main() {
